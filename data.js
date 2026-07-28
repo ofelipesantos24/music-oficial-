@@ -7,14 +7,14 @@
    ========================================================== */
 
 const GRADIENTS = [
-  "linear-gradient(135deg,#3DD68C,#0E7C56)",
-  "linear-gradient(135deg,#FF7A59,#B33A2E)",
-  "linear-gradient(135deg,#5B8CFF,#26327A)",
-  "linear-gradient(135deg,#FFC75B,#B8791A)",
-  "linear-gradient(135deg,#C084FC,#5B2A86)",
-  "linear-gradient(135deg,#3DD6D6,#0E5C7C)",
-  "linear-gradient(135deg,#FF6FA5,#7C1E4A)",
-  "linear-gradient(135deg,#8CFF6F,#2C7A0E)",
+  "linear-gradient(135deg,#5c5c5c,#0a0a0a)",
+  "linear-gradient(135deg,#7a7a7a,#1a1a1a)",
+  "linear-gradient(135deg,#4a4a4a,#000000)",
+  "linear-gradient(135deg,#8c8c8c,#232323)",
+  "linear-gradient(135deg,#3a3a3a,#111111)",
+  "linear-gradient(135deg,#6e6e6e,#050505)",
+  "linear-gradient(135deg,#9a9a9a,#2c2c2c)",
+  "linear-gradient(135deg,#525252,#0d0d0d)",
 ];
 
 function gradFor(seed) {
